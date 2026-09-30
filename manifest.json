@@ -1,0 +1,64 @@
+{
+  "schema": 1,
+  "revision": 1,
+  "game_version": "1.4.0",
+  "updated": "2026-09-30",
+  "slots": {
+    "tv": {
+      "files": [
+        {
+          "name": "BP_FurnitureActorBase_TV.uasset",
+          "dest": "HT/Content/Blueprints/Level/World/Common/Room/BP_FurnitureActorBase_TV.uasset",
+          "size": 13294,
+          "sha256": "9d283856f1cdb41f1c4383b74d5e12aab26e25fdcbb290be0b3b745553e19b23"
+        },
+        {
+          "name": "BP_FurnitureActorBase_TV.uexp",
+          "dest": "HT/Content/Blueprints/Level/World/Common/Room/BP_FurnitureActorBase_TV.uexp",
+          "size": 5892,
+          "sha256": "fe4d9293e3c7c43ea051603cbd7d9343a2c3eadebd205e2cf9724679a6538989",
+          "count_offsets": [
+            3014
+          ]
+        }
+      ]
+    },
+    "cinema": {
+      "files": [
+        {
+          "name": "BP_MovieScreen.uasset",
+          "dest": "HT/Content/Blueprints/Level/SingleLevel/Cinema/BP_MovieScreen.uasset",
+          "size": 8162,
+          "sha256": "29150306dbed1f02fae9b032b8200ee5077a1ccdb1bad85c2845f989ade65c0d"
+        },
+        {
+          "name": "BP_MovieScreen.uexp",
+          "dest": "HT/Content/Blueprints/Level/SingleLevel/Cinema/BP_MovieScreen.uexp",
+          "size": 3019,
+          "sha256": "f7eb8090de32aebaa9feef8a8270573a1908bf60581eeb58a27a59d14db45e1a",
+          "count_offsets": [
+            1738,
+            1995
+          ]
+        },
+        {
+          "name": "MovieAudioDataTable.uasset",
+          "dest": "HT/Content/Movies/FFMpegUI/MovieAudioDataTable.uasset",
+          "size": 2895,
+          "sha256": "6f6613894fd7be1bc1e2075462dd38b7949fd0c131b40b28eb0b2c2095d920ae"
+        },
+        {
+          "name": "MovieAudioDataTable.uexp",
+          "dest": "HT/Content/Movies/FFMpegUI/MovieAudioDataTable.uexp",
+          "size": 1965,
+          "sha256": "ea480d1ab86fba033eb079986c1debb1d60dcda61f35f8f276df77e98659c8cb"
+        }
+      ]
+    }
+  },
+  "built_from": {
+    "BP_FurnitureActorBase_TV.uexp": "11bafb4be83a750af246edfa3e5fb12110562b20267321c8213d89461cbdb0c6",
+    "BP_MovieScreen.uexp": "7f4311013ebeaa6c6a4cd6c7af143d6858efa856433ad38ea26e953fee007ddb",
+    "MovieAudioDataTable.uexp": "d5623964a61d469f4ef1db44b1be6dfee02968162cdb2ee27249c6d76d356508"
+  }
+}

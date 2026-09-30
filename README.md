@@ -1,6 +1,6 @@
 # ntevs-assets
 
-Patch data for [NTE Video Swap](https://github.com/Eidenz). The app downloads
+Patch data for NTE Video Swap. The app downloads
 it by itself; there is nothing to install from here by hand.
 
 The Cinema Screen and Apartment TV swaps rely on patched copies of two game
